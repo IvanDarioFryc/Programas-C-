@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\bin\Debug\net6.0\Caracteres repetidos.exe
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\bin\Debug\net6.0\Caracteres repetidos.deps.json
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\bin\Debug\net6.0\Caracteres repetidos.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\bin\Debug\net6.0\Caracteres repetidos.dll
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\bin\Debug\net6.0\Caracteres repetidos.pdb
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.dll
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\refint\Caracteres repetidos.dll
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.pdb
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\Caracteres repetidos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyectos C#\Caracteres repetidos\Caracteres repetidos\obj\Debug\net6.0\ref\Caracteres repetidos.dll
